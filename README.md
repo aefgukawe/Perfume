@@ -3,7 +3,7 @@ In this Data science project, I tried to create a Jupyter notebook for data scra
 
 ## Project Highlights:
 1. Data Acquisition:
-- Conducted automated web scraping to compile a comprehensive dataset of perfumes, including details such as brands, names, inks, notes, longevity, ratings, years, categories, and gender preferences.
+- Conducted automated web scraping to compile a comprehensive dataset of perfumes, including details such as brands, names, links, notes, longevity, ratings, years, categories, and gender preferences.
 2. Data Cleaning + Feature Engineer:
 - Handled missing data, normalized numeric variables, and encoded categorical attributes for model readiness.
 - Designed features needed that are not readily available in the website
