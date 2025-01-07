@@ -18,7 +18,7 @@ In this Data science project, I tried to create a Jupyter notebook for data scra
   - Gradient Boosting Models
 - Evaluate model performance using appropriate metrics such as accuracy rate for classification tasks, Mean Squared Error (MSE) for regression analysis, and feature importance scores to assess the contribution of individual predictors.
 5. Recommendation System:
-- Built a K-Nearest Neighbors (KNN) recommendation system to suggest perfumes tailored to individual user preferences. Recommendations were based on attributes like what notes user preferred or what their current favorite perfume was.
+- Built a K-Nearest Neighbors (KNN) recommendation system to suggest perfumes tailored to individual user preferences. Recommendations were based on attributes like what notes users preferred or their current favorite perfume. If user's favorite perfume is not already in the database, they can provide a link to the perfume, and the system will extract relevant attributes to generate personalized recommendations. I also integrated a user-friendly interface (UI) to allow users to easily input their preferences and get recommendations outside of jupyter notebook.
 
 ## Significance and Applications:
 This project provides actionable insights for perfume enthusiasts and industry professionals. Users can benefit from tailored recommendations, while brands can leverage data-driven findings to refine product development and marketing strategies. The combination of data science techniques and practical application ensures a comprehensive understanding of current perfume trends and their underlying drivers.
