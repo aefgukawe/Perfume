@@ -23,3 +23,7 @@ In this Data science project, I tried to create a Jupyter notebook for data scra
 
 ## Significance and Applications:
 This project provides actionable insights for perfume enthusiasts and industry professionals. Users can benefit from tailored recommendations, while brands can leverage data-driven findings to refine product development and marketing strategies. The combination of data science techniques and practical application ensures a comprehensive understanding of current perfume trends and their underlying drivers.
+
+## Limitations:
+- Data Volume: The model would benefit from a larger dataset to improve accuracy and better reflect the diversity of perfumes and user preferences. However, due to computational limitations—since the project runs on my personal computer—it's challenging to collect and process a larger dataset. Additionally, the lack of publicly available perfume datasets required me to rely on a smaller, custom-built dataset.
+- Recommendation Approach: Recommendations are based on perfume notes, which may not always accurately reflect user preferences. A better approach would involve collaborative filtering, where recommendations are made based on what other users with similar preferences like. However, the lack of user interaction data limited the implementation of this method.
