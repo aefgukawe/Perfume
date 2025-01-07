@@ -1,12 +1,12 @@
 # Perfume Dataset: Exploratory Data Analysis and Predictive Modeling
-In this Data science project, I tried to create a Jupyter notebook for data scraping, EDA, feature engineering, and prediction models for some of the most popular perfumes in 2024. The main objective of this project was to explore common characteristics of trending perfumes and leverage these insights to create a personalized recommendation system. 
+In this Data Science project, I tried to create a Jupyter notebook for data scraping, EDA, feature engineering, and prediction models for some of the most popular perfumes in 2024. The main objective of this project was to explore common characteristics of trending perfumes and leverage these insights to create a personalized recommendation system. 
 
 ## Project Highlights:
 1. Data Acquisition:
 - Conducted automated web scraping to compile a comprehensive dataset of perfumes, including details such as brands, names, links, notes, longevity, ratings, years, categories, and gender preferences.
-2. Data Cleaning + Feature Engineer:
+2. Data Cleaning + Feature Engineering:
 - Handled missing data, normalized numeric variables, and encoded categorical attributes for model readiness.
-- Designed features needed that are not readily available in the website
+- Designed features needed that are not readily available on the website
 3. Exploratory Data Analysis (EDA):
 - Performed a detailed exploratory analysis to uncover the dataset's trends, correlations, and distribution patterns.
 - Visualized key insights such as the most frequently used fragrance notes for each gender, the relationship between gender and perfume category, and the breakdown of perfumes by gender and brands.
